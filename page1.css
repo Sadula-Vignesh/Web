@@ -1,0 +1,30 @@
+.maintitle{
+    text-align:center;
+    background-color: black;
+    color:white;
+    padding:30px;
+}
+
+.title{
+    font-size:80px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.nav-item{
+    color:pink;
+
+}
+
+.middlepage{
+    background-color: blanchedalmond;
+}
+
+.img{
+    height:200px;
+    width:200px;
+}
+
+.box{
+    padding:10px;
+}
